@@ -1,0 +1,6 @@
+jtracewell.auto.tfvars
+.terraform
+.terraform.lock.hcl
+terraform.tfstate
+terraform.tfstate.backup
+terraform-pipeline-376318-6cea6722c9c5.json
